@@ -1,5 +1,6 @@
 # OpenSearch Policy ILM
 Retention policy for wazuh alerts index
+Wazuh-indexer
 # POLICY
 ## Delete alerts older than 90d
 ```json
