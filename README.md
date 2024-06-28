@@ -1,4 +1,4 @@
-# wazuh-retention-policy
+# OpenSearch Policy ILM
 Retention policy for wazuh alerts index
 # POLICY
 ## Delete alerts older than 90d
